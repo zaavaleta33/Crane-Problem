@@ -74,9 +74,9 @@ The optimal solution is not required to end at (r-1, c-1). Indeed, the optimal p
 
 The time complexity of this algorithm is dominated by the general-case loops. The outer loop repeats n times, the inner loop repeats n times, and creating each of from_above and from_left takes O(n) time to copy paths, for a total of O(n3) time. While O(n3) is not the fastest time complexity out there, it is polynomial so considered tractible, and is drastically faster than the exhaustive algorithm.
 
-#To Do:
+# To Do:
 
-#I. Create a Document with the following 
+# I. Create a Document with the following 
 - Exhastive Algorithm Soltuion Psuedocode and time analysis
 - Plot a graph for time vs input size for the algorthm
 - Dynamic Algorithm Soltuion Psuedocode and time analysis
@@ -93,9 +93,9 @@ Questions
 4.	Is this evidence consistent or inconsistent with hypothesis 2? Justify your answer.
 
 
-#II. Create video demo for a running implementation format is same as Project 1
+# II. Create video demo for a running implementation format is same as Project 1
 
-#III. Complete the todo sections in the cranes_algs.hpp, update the readme file with team member names and email ID.
+# III. Complete the todo sections in the cranes_algs.hpp, update the readme file with team member names and email ID.
 
 
 
