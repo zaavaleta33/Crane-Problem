@@ -2,6 +2,7 @@
 # CPSC 335 - Algorithm Engineering
 # Spring 2023
 # Instructor: Himani Tawade
+# Group: Group: Alejandro Ramos(alejandroramosh27@csu.fullerton.edu) & Alexander Zavaleta(A_zavaleta@csu.fullerton.edu)
 
 **Clone This repository into your repository and implement the code, along with a document with required details mentioned at the last, a demo video, readme file and .gitignore file. Submission will be a git repo link with all the requirements updated to repo on canvas.**
 
