@@ -2,8 +2,11 @@
 # CPSC 335 - Algorithm Engineering
 # Spring 2023
 # Instructor: Himani Tawade
-# Group: Group: Alejandro Ramos(alejandroramosh27@csu.fullerton.edu) & Alexander Zavaleta(A_zavaleta@csu.fullerton.edu)
 
+# Group Members
+  Alejandro Ramos(alejandroramosh27@csu.fullerton.edu) 
+  Alexander Zavaleta(A_zavaleta@csu.fullerton.edu )
+  
 **Clone This repository into your repository and implement the code, along with a document with required details mentioned at the last, a demo video, readme file and .gitignore file. Submission will be a git repo link with all the requirements updated to repo on canvas.**
 
 # Abstract
@@ -95,10 +98,8 @@ Questions
 
 
 # II. Create video demo for a running implementation format is same as Project 1
-Video -> https://drive.google.com/file/d/13h17k9WeDTPX8pFX1ZFmwyifKbkH34qV/view?usp=sharing
-
 
 # III. Complete the todo sections in the cranes_algs.hpp, update the readme file with team member names and email ID.
-Group: Alejandro Ramos(alejandroramosh27@csu.fullerton.edu) & Alexander Zavaleta(A_zavaleta@csu.fullerton.edu)
+
 
 
